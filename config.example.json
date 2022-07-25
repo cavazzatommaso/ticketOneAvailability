@@ -1,0 +1,8 @@
+{
+    "eventUrl":"https://www.ticketone.it/artist/fiba-eurobasket/fiba-eurobasket-2022-milano-italy-session-tickets-3009504/?affiliate=EB8",
+    "eventsName": [
+        "FIBA EuroBasket 2022 - GRE vs ITA",
+        "FIBA EuroBasket 2022 - GBR vs ITA"
+    ],
+    "scheduler": "0 13 * * *"
+}
