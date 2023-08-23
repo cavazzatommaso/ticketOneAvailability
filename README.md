@@ -18,7 +18,7 @@ yarn install
 - Rename config.example.json to config.json and change as you like
 ```
 In schedule you can set a cron tab like string
-Set schedule false to check just one time
+Set schedule null to check just one time usefull for debug
 ```
 
 - Run the project

@@ -4,5 +4,11 @@
         "FIBA EuroBasket 2022 - GRE vs ITA",
         "FIBA EuroBasket 2022 - GBR vs ITA"
     ],
-    "scheduler": "0 13 * * *"
+    "scheduler": "0 13 * * *",
+    "checkForEventPrice": false,
+    "telegram":{
+        "notify":false,
+        "botToken":"",
+        "chatId":123
+    }
 }
